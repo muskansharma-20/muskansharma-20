@@ -2,7 +2,7 @@
 
 ## About Me
 
-M.Pharm (Medicinal Chemistry)
+M.Pharm (Pharmaceutical Chemistry)
 
 Interested in:
 - Clinical Research
@@ -31,6 +31,7 @@ Interested in:
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/muskansharma170533
+
 Email: muskaansharmapunj@gmail.com
 
 <!--
